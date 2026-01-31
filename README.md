@@ -2,6 +2,8 @@
 
 ## Project Overview
 This project performs a geospatial optimization analysis for a retail automotive network. The objective is to calculate the precise distance between the customer base and physical dealership locations. By identifying the nearest service point for every customer, the organization can improve marketing attribution and identify geographic "service deserts" where new dealerships may be required.
+<img width="512" height="398" alt="image" src="https://github.com/user-attachments/assets/7ee68300-7483-4c59-b04b-85b5d1218132" />
+
 
 ## Business Objectives
 * **Customer Engagement:** Provide localized marketing data to help customers find their nearest service center.
